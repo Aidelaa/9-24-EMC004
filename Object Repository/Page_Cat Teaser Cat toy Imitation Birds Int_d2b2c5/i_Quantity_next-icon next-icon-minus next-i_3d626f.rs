@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Quantity_next-icon next-icon-minus next-i_3d626f</name>
+   <tag></tag>
+   <elementGuidId>9afa6900-b0ad-4da0-9331-7dab30ae1c00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='module_quantity-input']/div/div/div/div/a[2]/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.next-icon.next-icon-minus.next-icon-medium</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#module_quantity-input a >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>89e0258b-c94b-40bd-85ec-5c4ecd0ade56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>next-icon next-icon-minus next-icon-medium</value>
+      <webElementGuid>80028ddb-5dc6-4940-a154-73679f74fdd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-spm-anchor-id</name>
+      <type>Main</type>
+      <value>a2o4l.pdp_revamp.0.i2.62d86b8865rBuv</value>
+      <webElementGuid>b8a365ca-03e2-4542-9f1e-b6cb6c154c5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;module_quantity-input&quot;)/div[@class=&quot;pdp-mod-product-info-section sku-quantity-selection&quot;]/div[@class=&quot;section-content&quot;]/div[@class=&quot;next-number-picker next-number-picker-inline&quot;]/div[@class=&quot;next-number-picker-handler-wrap&quot;]/a[@class=&quot;next-number-picker-handler next-number-picker-handler-down&quot;]/span[@class=&quot;next-number-picker-handler-down-inner&quot;]/i[@class=&quot;next-icon next-icon-minus next-icon-medium&quot;]</value>
+      <webElementGuid>750ffbc8-6df3-464f-a70a-bf1e62e082a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='module_quantity-input']/div/div/div/div/a[2]/span/i</value>
+      <webElementGuid>b7a6c314-46fb-4ab9-b64b-c72a221b1945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/span/i</value>
+      <webElementGuid>aa1b27e7-a371-4b66-9f2f-dd0d86f2e303</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

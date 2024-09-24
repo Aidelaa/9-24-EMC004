@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cat Teaser Cat toy Imitation Birds Intera_83b867</name>
+   <tag></tag>
+   <elementGuidId>ab9c647c-307a-4324-ab37-ac997a505aa9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/div[2]/div/div/div/div[2]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Cat Teaser Cat toy Imitation Birds Interactive Toy for Cats, Fun Feather with Bell, with Stick or Wand for Kittens&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Cat Teaser Cat toy Imitation Birds Interactive Toy for Cats, Fun Feather with Be&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1ba87d1e-55d9-4008-8da9-89f3883aad7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>age</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>3add8a84-a819-4306-902b-904f2912dbd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>//www.lazada.com.ph/products/cat-teaser-cat-toy-imitation-birds-interactive-toy-for-cats-fun-feather-with-bell-with-stick-or-wand-for-kittens-i2596389212.html?spm=a2o4l.searchlist.list.12.8278319cJWw58a</value>
+      <webElementGuid>27f415fd-b9ed-44f9-850b-ef5de2156b7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Cat Teaser Cat toy Imitation Birds Interactive Toy for Cats, Fun Feather with Bell, with Stick or Wand for Kittens</value>
+      <webElementGuid>4c27e239-0620-4ab6-8ea0-57086f33ab4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-spm-anchor-id</name>
+      <type>Main</type>
+      <value>a2o4l.searchlist.list.12</value>
+      <webElementGuid>e9a8a8b3-5b1d-46e0-b961-4cc8bd42ffdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cat Teaser Cat toy Imitation Birds Interactive Toy for Cats, Fun Feather with Bell, with Stick or Wand for Kittens</value>
+      <webElementGuid>eefba99d-594d-45f2-a2de-7aca9bbd3275</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;FWSEp&quot;]/div[@class=&quot;ant-row FrEdP css-1bkhbmc app&quot;]/div[@class=&quot;ant-col ant-col-24 css-1bkhbmc app&quot;]/div[@class=&quot;ant-row css-1bkhbmc app&quot;]/div[@class=&quot;ant-col ant-col-20 ant-col-push-4 Jv5R8 css-1bkhbmc app&quot;]/div[@class=&quot;_17mcb&quot;]/div[@class=&quot;Bm3ON&quot;]/div[@class=&quot;Ms6aG MefHh&quot;]/div[@class=&quot;qmXQo&quot;]/div[@class=&quot;buTCk&quot;]/div[@class=&quot;RfADt&quot;]/a[1]</value>
+      <webElementGuid>dbcd2700-6ba6-4345-8053-dd0d84d73f94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div[2]/div/div/div/div[2]/div[2]/a</value>
+      <webElementGuid>09fe5a60-59a8-4c99-820e-664d983a5441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cat Teaser Cat toy Imitation Birds Interactive Toy for Cats, Fun Feather with Bell, with Stick or Wand for Kittens')]</value>
+      <webElementGuid>5b5fb6ab-b878-48fd-ab0d-dcbe8384a4ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View:'])[1]/following::a[12]</value>
+      <webElementGuid>35f07b23-c9c2-443a-92f8-47e8848bf456</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Best Match'])[1]/following::a[12]</value>
+      <webElementGuid>91e0b5de-cefe-4ca6-81bf-0064bfe6289a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₱13.5'])[1]/preceding::a[1]</value>
+      <webElementGuid>967366a1-7ec7-427c-869e-c439050674d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Voucher save 77%'])[1]/preceding::a[1]</value>
+      <webElementGuid>6d9e981f-f6fe-45aa-b75b-3c67b2770520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cat Teaser Cat toy Imitation Birds Interactive Toy for Cats, Fun Feather with Bell, with Stick or Wand for Kittens']/parent::*</value>
+      <webElementGuid>dde091aa-ef16-468f-9230-9626b067113e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '//www.lazada.com.ph/products/cat-teaser-cat-toy-imitation-birds-interactive-toy-for-cats-fun-feather-with-bell-with-stick-or-wand-for-kittens-i2596389212.html?spm=a2o4l.searchlist.list.12.8278319cJWw58a')]</value>
+      <webElementGuid>18dcae09-43ed-4d05-8ceb-817f938fb224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div[2]/a</value>
+      <webElementGuid>e9780fea-333f-4039-9be4-47c7abe45750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '//www.lazada.com.ph/products/cat-teaser-cat-toy-imitation-birds-interactive-toy-for-cats-fun-feather-with-bell-with-stick-or-wand-for-kittens-i2596389212.html?spm=a2o4l.searchlist.list.12.8278319cJWw58a' and @title = 'Cat Teaser Cat toy Imitation Birds Interactive Toy for Cats, Fun Feather with Bell, with Stick or Wand for Kittens' and (text() = 'Cat Teaser Cat toy Imitation Birds Interactive Toy for Cats, Fun Feather with Bell, with Stick or Wand for Kittens' or . = 'Cat Teaser Cat toy Imitation Birds Interactive Toy for Cats, Fun Feather with Bell, with Stick or Wand for Kittens')]</value>
+      <webElementGuid>23a90ef8-5a77-426b-b4c7-6b95472c0bc8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

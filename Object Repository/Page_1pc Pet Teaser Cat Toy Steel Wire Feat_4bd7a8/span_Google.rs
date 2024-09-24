@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Google</name>
+   <tag></tag>
+   <elementGuidId>8834e6eb-5bf0-4c38-bbe3-e181b3919c8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Or, login with'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.index_module_buttonItem__8ea6d5ec > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Google&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e9aae08c-977b-4096-8e17-cbff6e8361fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-spm-anchor-id</name>
+      <type>Main</type>
+      <value>a2o4l.pdp_revamp.0.i1.4e101f6538hESG</value>
+      <webElementGuid>9386a163-89f6-4312-b291-f1ee9bdb5111</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Google</value>
+      <webElementGuid>e461b39f-e986-44de-b226-bcd58b287403</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;pdp-layout-column-2 i-overflow-hidden&quot;]/div[8]/div[@class=&quot;iweb-mask iweb-dialog-mask lzd-login-signup-popup-mask  iweb-dialog-mask-enter iweb-mask-default&quot;]/div[@class=&quot;iweb-dialog-container  iweb-dialog-container-enter&quot;]/div[@class=&quot;iweb-dialog-wrap lzd-login-signup-popup-wrapper&quot;]/div[@class=&quot;iweb-dialog-body lzd-login-signup-popup-body&quot;]/div[@class=&quot;iweb-dialog-body-content-wrapper&quot;]/div[@class=&quot;iweb-dialog-body-content&quot;]/div[@class=&quot;lzd-member-loginsign-popup&quot;]/div[@class=&quot;lzd-member-loginsign-popup-content&quot;]/div[@class=&quot;index_module_loginWrapper__ff031001&quot;]/div[@class=&quot;index_module_thirdLoginWrapper__8ea6d5ec index_module_thirdLoginWrapper__deb6dcb9&quot;]/div[@class=&quot;index_module_buttonItem__8ea6d5ec&quot;]/span[1]</value>
+      <webElementGuid>887fccdd-06af-437f-b016-bcacd9523dc6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or, login with'])[1]/following::span[1]</value>
+      <webElementGuid>b6b9246c-a2bb-4fe7-9ef9-53e5b0b843c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/following::span[1]</value>
+      <webElementGuid>0a91a08b-fff4-4a71-aec8-804a5ad2abf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::span[1]</value>
+      <webElementGuid>1e80e5c3-acb1-4e65-96d0-06025bebdbac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login with QR'])[1]/preceding::span[3]</value>
+      <webElementGuid>999e8838-dc52-4f6d-b5de-f99b67bab9df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Google']/parent::*</value>
+      <webElementGuid>5488283e-d51b-492a-8cca-a5d09befe193</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/span</value>
+      <webElementGuid>71b6e2ee-bcf0-421c-8b1e-484091f809c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Google' or . = 'Google')]</value>
+      <webElementGuid>03e41bc2-dde6-4e31-b74a-5dc84aa565e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_(24)_next-icon next-icon-close next-icon-small</name>
+   <tag></tag>
+   <elementGuidId>4586e07a-5496-435e-aedb-f2f6ecb63984</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.next-icon.next-icon-close.next-icon-small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>69740bd2-8d1c-4429-86f7-015d0924cace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>next-icon next-icon-close next-icon-small</value>
+      <webElementGuid>93fac388-8b70-43bc-b78e-9f714e77df85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-spm-anchor-id</name>
+      <type>Main</type>
+      <value>a2o4l.pdp_revamp.0.i1.10296b88FYLixj</value>
+      <webElementGuid>db6effe2-b95f-419a-8e28-7b87036b5637</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;pdp-layout-column-2&quot;]/div[9]/div[@class=&quot;next-overlay-wrapper next-dialog-wrapper cart-dialog-wrapper automation-cart-popup opened&quot;]/div[@class=&quot;next-dialog right next-overlay-inner animated fadeInDown cart-dialog next-position-cc&quot;]/a[@class=&quot;next-dialog-close&quot;]/i[@class=&quot;next-icon next-icon-close next-icon-small&quot;]</value>
+      <webElementGuid>8f6641c6-5a7b-42d6-ad9e-9b6d0f923a9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/i</value>
+      <webElementGuid>9ee6d91d-eb64-457f-bb45-5966e66f64f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>e960289e-0830-401d-84c6-df8d4114c7c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='© Lazada 2024'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.lzd-member-loginsign-popup-close-button > div > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.lzd-member-loginsign-popup-close-button > div > svg</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>2f45d59d-05a9-4f05-bee6-1225c9d65d2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>5a56ce44-3c29-4f4c-9a2f-603009c18e56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>90ac057d-8ae6-464f-8cac-ce7f2118b3bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 36 36</value>
+      <webElementGuid>7afe1e9f-e6b3-4f85-9654-c1864dcff521</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>d574c4aa-531d-41ba-86ac-37a636990a42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>76a16246-1837-45e4-a70d-7c67f8e0682e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-spm-anchor-id</name>
+      <type>Main</type>
+      <value>a2o4l.pdp_revamp.0.i2.4e101f6538hESG</value>
+      <webElementGuid>45113991-f2eb-4cae-899a-7fa6e94e3596</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;pdp-layout-column-2 i-overflow-hidden&quot;]/div[8]/div[@class=&quot;iweb-mask iweb-dialog-mask lzd-login-signup-popup-mask  iweb-dialog-mask-enter iweb-mask-default&quot;]/div[@class=&quot;iweb-dialog-container  iweb-dialog-container-enter&quot;]/div[@class=&quot;iweb-dialog-wrap lzd-login-signup-popup-wrapper&quot;]/div[@class=&quot;iweb-dialog-body lzd-login-signup-popup-body&quot;]/div[@class=&quot;iweb-dialog-body-content-wrapper&quot;]/div[@class=&quot;iweb-dialog-body-content&quot;]/div[@class=&quot;lzd-member-loginsign-popup&quot;]/div[@class=&quot;lzd-member-loginsign-popup-close-button&quot;]/div[1]/svg[1]</value>
+      <webElementGuid>a9a43e68-2b1b-4887-8de9-47724b6504a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© Lazada 2024'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>a53fb939-d246-47f2-8f38-e3524bea130a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Follow Us'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>0fa9f391-fde2-40db-8481-8ed6b069d674</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>34fc7bd8-f584-471f-9195-a14dbfb9db64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>f6ef1789-c3d4-441a-8ec9-689d4757af2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
